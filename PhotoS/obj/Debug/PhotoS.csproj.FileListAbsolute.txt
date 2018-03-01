@@ -1,0 +1,10 @@
+c:\users\matis\source\repos\PhotoS\PhotoS\obj\Debug\PhotoS.csprojResolveAssemblyReference.cache
+c:\users\matis\source\repos\PhotoS\PhotoS\obj\Debug\PhotoS.Form1.resources
+c:\users\matis\source\repos\PhotoS\PhotoS\obj\Debug\PhotoS.Properties.Resources.resources
+c:\users\matis\source\repos\PhotoS\PhotoS\obj\Debug\PhotoS.csproj.GenerateResource.Cache
+c:\users\matis\source\repos\PhotoS\PhotoS\obj\Debug\PhotoS.csproj.CoreCompileInputs.cache
+c:\users\matis\source\repos\PhotoS\PhotoS\bin\Debug\PhotoS.exe.config
+c:\users\matis\source\repos\PhotoS\PhotoS\bin\Debug\PhotoS.exe
+c:\users\matis\source\repos\PhotoS\PhotoS\bin\Debug\PhotoS.pdb
+c:\users\matis\source\repos\PhotoS\PhotoS\obj\Debug\PhotoS.exe
+c:\users\matis\source\repos\PhotoS\PhotoS\obj\Debug\PhotoS.pdb
